@@ -1,0 +1,10 @@
+C:\Users\cht-s\source\repos\WindowsFormsApp2bilgiyarismasi\bin\Debug\WindowsFormsApp2bilgiyarismasi.exe.config
+C:\Users\cht-s\source\repos\WindowsFormsApp2bilgiyarismasi\bin\Debug\WindowsFormsApp2bilgiyarismasi.exe
+C:\Users\cht-s\source\repos\WindowsFormsApp2bilgiyarismasi\bin\Debug\WindowsFormsApp2bilgiyarismasi.pdb
+C:\Users\cht-s\source\repos\WindowsFormsApp2bilgiyarismasi\obj\Debug\WindowsFormsApp2bilgiyarismasi.csprojAssemblyReference.cache
+C:\Users\cht-s\source\repos\WindowsFormsApp2bilgiyarismasi\obj\Debug\WindowsFormsApp2bilgiyarismasi.Form1.resources
+C:\Users\cht-s\source\repos\WindowsFormsApp2bilgiyarismasi\obj\Debug\WindowsFormsApp2bilgiyarismasi.Properties.Resources.resources
+C:\Users\cht-s\source\repos\WindowsFormsApp2bilgiyarismasi\obj\Debug\WindowsFormsApp2bilgiyarismasi.csproj.GenerateResource.cache
+C:\Users\cht-s\source\repos\WindowsFormsApp2bilgiyarismasi\obj\Debug\WindowsFormsApp2bilgiyarismasi.csproj.CoreCompileInputs.cache
+C:\Users\cht-s\source\repos\WindowsFormsApp2bilgiyarismasi\obj\Debug\WindowsFormsApp2bilgiyarismasi.exe
+C:\Users\cht-s\source\repos\WindowsFormsApp2bilgiyarismasi\obj\Debug\WindowsFormsApp2bilgiyarismasi.pdb
